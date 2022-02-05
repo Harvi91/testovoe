@@ -1,0 +1,12 @@
+div {
+  text-align: center;
+  margin: 0 auto;
+}
+.prefix {
+  font-weight: bold;
+  font-size: small;
+}
+
+.header-contacts p {
+  margin-top: 10px;
+}
